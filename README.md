@@ -1,6 +1,4 @@
 
-
- <img src="https://user-images.githubusercontent.com/55049159/111117656-2913d700-85ab-11eb-9bbb-cf8569b5fd8b.png" width="700" heigth="400">
 ![부기타자게임_보고서_1514043_최재호 (2)_1](https://user-images.githubusercontent.com/55049159/111117656-2913d700-85ab-11eb-9bbb-cf8569b5fd8b.png)
 ![부기타자게임_보고서_1514043_최재호 (2)_2](https://user-images.githubusercontent.com/55049159/111117693-3630c600-85ab-11eb-921b-188902dedc5b.png)
 ![부기타자게임_보고서_1514043_최재호 (2)_3](https://user-images.githubusercontent.com/55049159/111117694-36c95c80-85ab-11eb-9c20-dcf295d5fc89.png)
