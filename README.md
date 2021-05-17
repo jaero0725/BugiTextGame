@@ -41,7 +41,10 @@
 
 ##  :rocket: 시연 영상 
 :heavy_check_mark: 1인용
-https://user-images.githubusercontent.com/55049159/118505824-bcae8300-b767-11eb-9011-c6de9be3dba3.mp4
+
+https://user-images.githubusercontent.com/55049159/118505961-dbad1500-b767-11eb-808d-ea3a49dab8c0.mp4
+
+
 <br>
 <br>
 
