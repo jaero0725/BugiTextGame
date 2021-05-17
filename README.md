@@ -1,28 +1,40 @@
+## :rocket: Java Swing으로 만든 부기 타자게임 <br/>
 
-![부기타자게임_보고서_1514043_최재호 (2)_1](https://user-images.githubusercontent.com/55049159/111117656-2913d700-85ab-11eb-9bbb-cf8569b5fd8b.png)
-![부기타자게임_보고서_1514043_최재호 (2)_2](https://user-images.githubusercontent.com/55049159/111117693-3630c600-85ab-11eb-921b-188902dedc5b.png)
-![부기타자게임_보고서_1514043_최재호 (2)_3](https://user-images.githubusercontent.com/55049159/111117694-36c95c80-85ab-11eb-9c20-dcf295d5fc89.png)
-![부기타자게임_보고서_1514043_최재호 (2)_4](https://user-images.githubusercontent.com/55049159/111117696-3761f300-85ab-11eb-8aba-e99606d0bdbc.png)
-![부기타자게임_보고서_1514043_최재호 (2)_5](https://user-images.githubusercontent.com/55049159/111117698-37fa8980-85ab-11eb-9bbf-b4b89f1d8d3b.png)
-![부기타자게임_보고서_1514043_최재호 (2)_6](https://user-images.githubusercontent.com/55049159/111117700-38932000-85ab-11eb-9ed0-69f760b9d398.png)
-![부기타자게임_보고서_1514043_최재호 (2)_7](https://user-images.githubusercontent.com/55049159/111117702-392bb680-85ab-11eb-875a-08c9f2b41715.png)
-![부기타자게임_보고서_1514043_최재호 (2)_8](https://user-images.githubusercontent.com/55049159/111117705-39c44d00-85ab-11eb-8a1c-3587041597bd.png)
-![부기타자게임_보고서_1514043_최재호 (2)_9](https://user-images.githubusercontent.com/55049159/111117709-39c44d00-85ab-11eb-8552-8d80cba4ad27.png)
-![부기타자게임_보고서_1514043_최재호 (2)_10](https://user-images.githubusercontent.com/55049159/111117710-3a5ce380-85ab-11eb-9f6b-f541b7ae5974.png)
-![부기타자게임_보고서_1514043_최재호 (2)_11](https://user-images.githubusercontent.com/55049159/111117713-3af57a00-85ab-11eb-84b9-f27d0997f50f.png)
-![부기타자게임_보고서_1514043_최재호 (2)_12](https://user-images.githubusercontent.com/55049159/111117715-3b8e1080-85ab-11eb-9b28-945a16426c8d.png)
-![부기타자게임_보고서_1514043_최재호 (2)_13](https://user-images.githubusercontent.com/55049159/111117718-3d57d400-85ab-11eb-82cc-974195e25860.png)
-![부기타자게임_보고서_1514043_최재호 (2)_14](https://user-images.githubusercontent.com/55049159/111117720-3d57d400-85ab-11eb-8e45-a57d12c0b7ad.png)
-![부기타자게임_보고서_1514043_최재호 (2)_15](https://user-images.githubusercontent.com/55049159/111117724-3df06a80-85ab-11eb-80e5-6f9208e3f33d.png)
-![부기타자게임_보고서_1514043_최재호 (2)_16](https://user-images.githubusercontent.com/55049159/111117725-3e890100-85ab-11eb-9946-c2f237563f91.png)
-![부기타자게임_보고서_1514043_최재호 (2)_17](https://user-images.githubusercontent.com/55049159/111117728-3f219780-85ab-11eb-8a0e-3ff6c3b6c612.png)
-![부기타자게임_보고서_1514043_최재호 (2)_18](https://user-images.githubusercontent.com/55049159/111117731-3f219780-85ab-11eb-9dac-8d94fd6a3f07.png)
-![부기타자게임_보고서_1514043_최재호 (2)_19](https://user-images.githubusercontent.com/55049159/111117732-3fba2e00-85ab-11eb-871b-068062435720.png)
-![부기타자게임_보고서_1514043_최재호 (2)_20](https://user-images.githubusercontent.com/55049159/111117735-4052c480-85ab-11eb-9151-0cbeb6150d38.png)
-![부기타자게임_보고서_1514043_최재호 (2)_21](https://user-images.githubusercontent.com/55049159/111117737-40eb5b00-85ab-11eb-931f-6836af756c7e.png)
-![부기타자게임_보고서_1514043_최재호 (2)_22](https://user-images.githubusercontent.com/55049159/111117740-40eb5b00-85ab-11eb-8810-ced0067c123d.png)
-![부기타자게임_보고서_1514043_최재호 (2)_23](https://user-images.githubusercontent.com/55049159/111117743-4183f180-85ab-11eb-8ed8-c5ac2d590aa2.png)
-![부기타자게임_보고서_1514043_최재호 (2)_24](https://user-images.githubusercontent.com/55049159/111117744-421c8800-85ab-11eb-8327-bf3f8ad38312.png)
-![부기타자게임_보고서_1514043_최재호 (2)_25](https://user-images.githubusercontent.com/55049159/111117745-42b51e80-85ab-11eb-8beb-8a3b0cbd65fd.png)
-![부기타자게임_보고서_1514043_최재호 (2)_26](https://user-images.githubusercontent.com/55049159/111117747-42b51e80-85ab-11eb-8318-afac1fee847a.png)
-![부기타자게임_보고서_1514043_최재호 (2)_27](https://user-images.githubusercontent.com/55049159/111117749-434db500-85ab-11eb-84b6-4b03eadedcf7.png)
+- 한성대학교의 마스코트인 "상상부기"를 캐릭터를 하여 "움직이는 단어 타이핑 게임"을 개발.
+- 단어가 떨어지며 단어를 맞춰 점수를 올리는 타자게임이다.
+- 기존의 산성비게임은 1인용이였다면, 소켓프로그래밍을 통해 2인용게임을 개발.
+- 물론 1인용 게임도 있다.
+
+- 각 단어마다 기능이 있다.
+- 검정색 단어 : 일반 단어 (점수 +10)
+- 파란색 단어 : 모든 단어를 3초간 정지시킨다. (점수 +20)
+- 핑크색 단어 : 모든 단어를 삭제시킴 (점수 +50)
+- 빨간색 단어 : 떨어지는 속도가 5초간 빨라진다. (점수 +10)
+
+<br>
+
+##  :rocket: 프로젝트 사용기술 
+
+
+<br>
+<br>
+
+##  :rocket: 시연 영상 
+
+
+<br>
+<br>
+
+##  :rocket: 화면 구성도 
+
+
+
+<br>
+<br>
+
+
+##  :rocket: 프레젠테이션 파일 다운로드
+
+:heavy_check_mark: [영화예매 프로그램.pdf](https://github.com/jaero0725/MovieReservationProject/files/6493121/default.pdf)
+
+
