@@ -1,5 +1,5 @@
 
-https://user-images.githubusercontent.com/55049159/118505824-bcae8300-b767-11eb-9011-c6de9be3dba3.mp4
+
 
 ## :rocket: Swing GUI와 Thread를 활용하여 만든 부기 타자게임 <br/>
 
@@ -40,7 +40,8 @@ https://user-images.githubusercontent.com/55049159/118505824-bcae8300-b767-11eb-
 <br>
 
 ##  :rocket: 시연 영상 
-
+:heavy_check_mark: 1인용
+https://user-images.githubusercontent.com/55049159/118505824-bcae8300-b767-11eb-9011-c6de9be3dba3.mp4
 <br>
 <br>
 
