@@ -38,13 +38,33 @@
 
 ##  :rocket: 시연 영상 
 
-
 <br>
 <br>
 
-##  :rocket: 화면 구성도 
+##  :rocket: 화면 구상도
+![image](https://user-images.githubusercontent.com/55049159/118504110-35144480-b766-11eb-97ef-d3f5fea98f5f.png)
+![image](https://user-images.githubusercontent.com/55049159/118504130-380f3500-b766-11eb-9f9d-7c0d1e0fe087.png)
+![image](https://user-images.githubusercontent.com/55049159/118504134-39d8f880-b766-11eb-8689-cd28744534ec.png)
+![image](https://user-images.githubusercontent.com/55049159/118504145-3cd3e900-b766-11eb-9ef6-4b833f2fa1ba.png)
+![image](https://user-images.githubusercontent.com/55049159/118504161-3e9dac80-b766-11eb-993e-4a3d85a3900c.png)
+![image](https://user-images.githubusercontent.com/55049159/118504233-4c533200-b766-11eb-8292-cba85e591ca1.png)
+![image](https://user-images.githubusercontent.com/55049159/118504240-4e1cf580-b766-11eb-9cbb-37bede8bf029.png)
+![image](https://user-images.githubusercontent.com/55049159/118504247-4fe6b900-b766-11eb-8a8f-606d528b9cce.png)
+![image](https://user-images.githubusercontent.com/55049159/118504258-51b07c80-b766-11eb-904c-fa7b017d27e0.png)
+![image](https://user-images.githubusercontent.com/55049159/118504272-5412d680-b766-11eb-8369-5457523d978d.png)
+![image](https://user-images.githubusercontent.com/55049159/118504286-55dc9a00-b766-11eb-9020-2e1083f95042.png)
+![image](https://user-images.githubusercontent.com/55049159/118504296-583ef400-b766-11eb-9943-88f65227ab49.png)
 
 
+##  :rocket: 2인용 시스템 구성도 
+
+![image](https://user-images.githubusercontent.com/55049159/118503640-c636eb80-b765-11eb-9731-2970eaaa1848.png)
+<br>
+<br>
+
+##  :rocket: 2인용 프로토콜  
+![image](https://user-images.githubusercontent.com/55049159/118503673-cdf69000-b765-11eb-9ab9-ec57245368da.png)
+![image](https://user-images.githubusercontent.com/55049159/118503754-dcdd4280-b765-11eb-82ed-b3778ac5034a.png)
 
 <br>
 <br>
@@ -52,6 +72,6 @@
 
 ##  :rocket: 프레젠테이션 파일 다운로드
 
-:heavy_check_mark: [영화예매 프로그램.pdf](https://github.com/jaero0725/MovieReservationProject/files/6493121/default.pdf)
+:heavy_check_mark: 
 
 
