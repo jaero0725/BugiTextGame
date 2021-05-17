@@ -35,6 +35,7 @@
 
 ##  :rocket: 프로젝트 사용기술 
 
+![image](https://user-images.githubusercontent.com/55049159/118515386-4e21f300-b770-11eb-9356-6913178a702a.png)
 
 <br>
 <br>
