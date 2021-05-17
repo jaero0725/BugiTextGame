@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/55049159/118505824-bcae8300-b767-11eb-9011-c6de9be3dba3.mp4
+
 ## :rocket: Swing GUI와 Thread를 활용하여 만든 부기 타자게임 <br/>
 
 ### 작품개요
