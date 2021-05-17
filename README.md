@@ -43,7 +43,9 @@
 :heavy_check_mark: 1인용
 
 https://user-images.githubusercontent.com/55049159/118505961-dbad1500-b767-11eb-808d-ea3a49dab8c0.mp4
+
 <br><br>
+
 :heavy_check_mark: 2인용
 
 https://user-images.githubusercontent.com/55049159/118509417-f7fe8100-b76a-11eb-81ab-b53ad58ffd0a.mp4
