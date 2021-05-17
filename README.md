@@ -80,5 +80,6 @@ https://user-images.githubusercontent.com/55049159/118505961-dbad1500-b767-11eb-
 ##  :rocket: 프레젠테이션 파일 다운로드
 
 :heavy_check_mark: [1인용 보고서](https://github.com/jaero0725/BugiTextGame/files/6494617/_._1514043_.2.pdf) <br>
-:heavy_check_mark: [2인용 보고서](https://github.com/jaero0725/BugiTextGame/files/6494620/NetP-14-.-1514043-.pptx)
+:heavy_check_mark: [2인용 보고서](https://github.com/jaero0725/BugiTextGame/files/6494647/NetP-14-.-1514043-.pdf)
+
 
